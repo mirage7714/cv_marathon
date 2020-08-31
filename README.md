@@ -1,7 +1,7 @@
 # cv_marathon
 HW for cv_marathon course 
-Day1: 
-Day2:
-Day3:
-Day4: 
-Day5: 
+\nDay1: 
+\nDay2:
+\nDay3:
+\nDay4: 
+\nDay5: 
