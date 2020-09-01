@@ -1,7 +1,7 @@
 # cv_marathon
-HW for cv_marathon course 
-\nDay1: 
-\nDay2:
-\nDay3:
-\nDay4: 
-\nDay5: 
+參加電腦視覺深度學習馬拉松課程的一些
+* Day1: 
+* Day2:
+* Day3:
+* Day4: 
+* Day5: 
