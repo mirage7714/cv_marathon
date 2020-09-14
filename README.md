@@ -15,3 +15,7 @@
 * Day11: CNN相關
   * Day11: <a href="Day11">CNN分類器架構：卷積層</a>
   * Day12: <a href="Day12">CNN分類器架構：步長、填充</a>
+  * Day13: <a href="Day13">CNN分類器架構：池化層、全連接層</a>
+  * Day14: <a href="Day14">CNN分類器架構：Batch Normalization</a>
+  * Day15: <a href="Day15">訓練一個CNN分類器：Cifar10為例</a>
+  * Day16: <a href="Day16">如何使用Data Augmentation</a>
