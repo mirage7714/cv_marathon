@@ -18,4 +18,7 @@
   * Day13: <a href="Day13">CNN分類器架構：池化層、全連接層</a>
   * Day14: <a href="Day14">CNN分類器架構：Batch Normalization</a>
   * Day15: <a href="Day15">訓練一個CNN分類器：Cifar10為例</a>
-  * Day16: <a href="Day16">如何使用Data Augmentation</a>
+  * Day16: <a href="Day16">如何使用Data Augmentation</a>  
+  * Day18: <a href="Day18">如何使用Data Augmentation</a>
+  * Day19: <a href="Day19">InceptionV1-V3</a>
+  * Day20: <a href="Day20">ResNetV1-V2、InceptionV4、Inception-ResNet</a>
